@@ -1,3 +1,3 @@
 # love_calc
-Love percentage calculator
+# Love percentage calculator
 This is a simple love % calculator
